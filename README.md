@@ -1,2 +1,2 @@
 # myproject
-Dettte er et projekt
+Dette er et projekt
